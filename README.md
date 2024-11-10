@@ -8,3 +8,4 @@ https://github.com/frida/frida/issues/2958#issuecomment-2397873526
 https://github.com/frida/frida-java-bridge/pull/337
 
 Endless thanks to [matbirk](https://github.com/matbrik) for resolving the issue.
+Everything thanks to matbrik I just compiled it.
